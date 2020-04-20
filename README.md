@@ -4,3 +4,4 @@ Data Visualization based on the Dataset uploaded
 - Plot the graph
     - Country Wise
     - Date Wise
+    - Continent wise
